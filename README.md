@@ -61,10 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fl015/Fl015/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="center">🛠 My socials:</h3>
 
 ###
